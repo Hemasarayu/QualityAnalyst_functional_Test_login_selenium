@@ -1,9 +1,9 @@
 "Quality Assurance  Testing using Selenium"
- Objective:
+* Objective:
 To perform functional and automation testing for the login functionality of the SauceDemo website using Selenium WebDriver.
 
 
- Tasks Performed:
+ *Tasks Performed:
 
  
 •Designed and executed manual test cases for login functionality (valid & invalid scenarios)
@@ -19,7 +19,7 @@ To perform functional and automation testing for the login functionality of the 
 •Organized all deliverables and presented findings clearly
 
 
-Project Deliverables:
+*Project Deliverables:
 
 
 •File 
@@ -41,7 +41,7 @@ Project Deliverables:
 
 
 
-README.md Project overview and documentation  Manual Test Scenarios Covered:
+*README.md Project overview and documentation  Manual Test Scenarios Covered:
 
 
 ✅ Valid username and password — login successful, redirected to inventory page
@@ -56,13 +56,13 @@ README.md Project overview and documentation  Manual Test Scenarios Covered:
 
 
 
- Defects Found on Testing:
+* Defects Found on Testing:
 
  
   •Mentioned in defect entries file.
 
 
- Tools Used:
+ *Tools Used:
 
  
 •Website: https://www.saucedemo.com/v1/
@@ -77,7 +77,7 @@ README.md Project overview and documentation  Manual Test Scenarios Covered:
 
 
 
- How to Run the Automation Script:
+ *How to Run the Automation Script:
  
 •Clone this repository
 
@@ -93,7 +93,7 @@ README.md Project overview and documentation  Manual Test Scenarios Covered:
 
 
 
- Key Learnings:
+ *Key Learnings:
  
  
 •Designed structured test cases and applied them on a real website.
