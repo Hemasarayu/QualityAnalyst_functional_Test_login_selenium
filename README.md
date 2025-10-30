@@ -56,10 +56,10 @@ To perform functional and automation testing for the login functionality of the 
 
 
 
-* Defects Found on Testing:
 
- 
-  •Mentioned in defect entries file.
+* Defects Found on Testing:
+* 
+ •Mentioned in defect entries file.
 
 
  *Tools Used:
