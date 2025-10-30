@@ -6,37 +6,37 @@ To perform functional and automation testing for the login functionality of the 
  Tasks Performed:
 
  
-.Designed and executed manual test cases for login functionality (valid & invalid scenarios)
+•Designed and executed manual test cases for login functionality (valid & invalid scenarios)
 
-.Performed functional testing on the SauceDemo login page
+•Performed functional testing on the SauceDemo login page
 
-.Developed a Selenium automation script to validate one login scenario
+•Developed a Selenium automation script to validate one login scenario
 
-.Created a Defect Report documenting issues found during testing
+•Created a Defect Report documenting issues found during testing
 
-.Used assertions to verify expected outcomes
+•Used assertions to verify expected outcomes
 
-.Organized all deliverables and presented findings clearly
+•Organized all deliverables and presented findings clearly
 
 
 Project Deliverables:
 
 
-.File 
+•File 
 
-.Description
+•Description
 
-.login_test_cases.xlsx
+•login_test_cases.xlsx
 
-.Manual test cases for SauceDemo login scenarios
+•Manual test cases for SauceDemo login scenarios
 
-.defect_report.xlsx
+•defect_report.xlsx
 
-.Document listing all identified defects
+•Document listing all identified defects
 
-.login_automation_script.java
+•login_automation_script.java
 
-.Selenium automation script for login test case
+•Selenium automation script for login test case
 
 
 
@@ -59,48 +59,48 @@ README.md Project overview and documentation  Manual Test Scenarios Covered:
  Defects Found on Testing:
 
  
-  .Mentioned in defect entries file.
+  •Mentioned in defect entries file.
 
 
  Tools Used:
 
  
-.Website: https://www.saucedemo.com/v1/
+•Website: https://www.saucedemo.com/v1/
 
-.Selenium WebDriver (Java)
+•Selenium WebDriver (Java)
 
-.JUnit/TestNG for assertions
+•JUnit/TestNG for assertions
 
-.Google Chrome for browser testing
+•Google Chrome for browser testing
 
-.Excel for documenting test cases and defects.
+•Excel for documenting test cases and defects.
 
 
 
  How to Run the Automation Script:
  
-.Clone this repository
+•Clone this repository
 
-.Open the project in  IntelliJ / VS Code/py charm
+•Open the project in  IntelliJ / VS Code/py charm
 
-.Ensure Selenium libraries are configured in your build path
+•Ensure Selenium libraries are configured in your build path
 
-.Update WebDriver path in the script if necessary
+•Update WebDriver path in the script if necessary
 
-.Run the script as a TestNG or JUnit test
+•Run the script as a TestNG or JUnit test
 
-.Check the console for assertion results and status messages
+•Check the console for assertion results and status messages
 
 
 
  Key Learnings:
  
  
-.Designed structured test cases and applied them on a real website.
+•Designed structured test cases and applied them on a real website.
 
-.Gained hands-on experience with functional testing and Selenium automation
-.
-.Practiced defect reporting and issue documentation.
+•Gained hands-on experience with functional testing and Selenium automation
 
-.Strengthened understanding of test validations, assertions, and error message handling.
+•Practiced defect reporting and issue documentation.
+
+•Strengthened understanding of test validations, assertions, and error message handling.
 
