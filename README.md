@@ -19,6 +19,8 @@ To perform functional and automation testing for the login functionality of the 
 •Organized all deliverables and presented findings clearly
 
 
+
+
 *Project Deliverables:
 
 
@@ -41,6 +43,7 @@ To perform functional and automation testing for the login functionality of the 
 
 
 
+
 *README.md Project overview and documentation  Manual Test Scenarios Covered:
 
 
@@ -57,7 +60,11 @@ To perform functional and automation testing for the login functionality of the 
 
 
 
+
+
 * Defects Found on Testing: Mentioned in defect entries file.
+
+
 
 
  *Tools Used:
@@ -75,6 +82,8 @@ To perform functional and automation testing for the login functionality of the 
 
 
 
+
+
  *How to Run the Automation Script:
  
 •Clone this repository
@@ -88,6 +97,8 @@ To perform functional and automation testing for the login functionality of the 
 •Run the script as a TestNG or JUnit test
 
 •Check the console for assertion results and status messages
+
+
 
 
 
