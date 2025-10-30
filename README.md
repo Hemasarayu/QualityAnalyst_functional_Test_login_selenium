@@ -4,6 +4,8 @@ To perform functional and automation testing for the login functionality of the 
 
 
  Tasks Performed:
+
+ 
 .Designed and executed manual test cases for login functionality (valid & invalid scenarios).
 .Performed functional testing on the SauceDemo login page.
 .Developed a Selenium automation script to validate one login scenario.
@@ -13,6 +15,8 @@ To perform functional and automation testing for the login functionality of the 
 
 
 Project Deliverables:
+
+
 .File 
 .Description
 .login_test_cases.xlsx
@@ -24,6 +28,8 @@ Project Deliverables:
 
 
 README.md Project overview and documentation  Manual Test Scenarios Covered:
+
+
 ✅ Valid username and password — login successful, redirected to inventory page
 ❌ Valid username, invalid password — incorrect password message displayed
 ⚠️ Both fields blank — should display both field validation messages
@@ -32,10 +38,14 @@ README.md Project overview and documentation  Manual Test Scenarios Covered:
 
 
  Defects Found on Testing:
+
+ 
   .Mentioned in defect entries file.
 
 
  Tools Used:
+
+ 
 .Website: https://www.saucedemo.com/v1/
 .Selenium WebDriver (Java)
 .JUnit/TestNG for assertions
@@ -43,6 +53,7 @@ README.md Project overview and documentation  Manual Test Scenarios Covered:
 .Excel for documenting test cases and defects.
 
  How to Run the Automation Script:
+ 
 .Clone this repository
 .Open the project in  IntelliJ / VS Code/py charm
 .Ensure Selenium libraries are configured in your build path
@@ -52,6 +63,7 @@ README.md Project overview and documentation  Manual Test Scenarios Covered:
 
 
  Key Learnings:
+ 
 .Designed structured test cases and applied them on a real website.
 .Gained hands-on experience with functional testing and Selenium automation.
 .Practiced defect reporting and issue documentation.
